@@ -51,4 +51,4 @@ pip install pyperclip
 
 ## 動作環境
 
-- Python 3.x# utility_for_genai
+- Python 3.x
